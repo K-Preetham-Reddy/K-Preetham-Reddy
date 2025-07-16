@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K-Preetham-Reddy&show_icons=true&theme=radical" alt="Preetham's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=K-Preetham-Reddy&theme=radical&border_radius=5" alt="GitHub Streak" />
+  [<img src="https://streak-stats.demolab.com?user=K-Preetham-Reddy&theme=radical&border_radius=5" alt="GitHub Streak" />](https://streak-stats.demolab.com/?user=K-Preetham-Reddy&count_private=true&theme=react&border_radius=10.)
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Preetham-Reddy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
