@@ -32,7 +32,6 @@
 </div>
 
 ---
-KPreethamReddy
 
 ### 📈 GitHub Stats
 
