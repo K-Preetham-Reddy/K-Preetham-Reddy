@@ -12,14 +12,19 @@
 - ⚙️ Building projects in FinTech, HealthTech & Smart Automation
 
 ---
-## 🏅 LeetCode History Awards
 
-[![100 Days Badge](https://img.shields.io/badge/100%20Days-Active-green)](https://leetcode.com/KPreethamReddy/)
-[![50 Days Badge](https://img.shields.io/badge/50%20Days-2025--02--20-yellow)](https://leetcode.com/KPreethamReddy/)
-[![50 Days Badge](https://img.shields.io/badge/50%20Days-2024--12--05-yellow)](https://leetcode.com/KPreethamReddy/)
-[![Top SQL 50](https://img.shields.io/badge/Top%20SQL%2050-2025--01--19-blue)](https://leetcode.com/KPreethamReddy/)
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+</div>
 
 ---
+KPreethamReddy
 
 ### 📈 GitHub Stats
 
