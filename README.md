@@ -16,11 +16,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preethamreddy&show_icons=true&theme=radical" alt="Preetham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Preetham-Reddy&show_icons=true&theme=radical" alt="Preetham's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=preethamreddy&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=K-Preetham-Reddy&theme=radical&border_radius=5" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamreddy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Preetham-Reddy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
