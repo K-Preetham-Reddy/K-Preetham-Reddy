@@ -14,13 +14,21 @@
 ---
 
 <div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
+  <h2 align="center">Leetcode Info</h2>  
+  <p align="center">
+    <a href="https://leetcode.com/KPreethamReddy/" target="_blank">
+      <img src="https://leetcode.com/static/images/badges/2025/gif/50-days.gif" alt="50 Days 2025" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/KPreethamReddy/" target="_blank">
+      <img src="https://leetcode.com/static/images/badges/2025/gif/100-days.gif" alt="100 Days 2025" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/static/images/badges/2024/gif/50-days.gif" target="_blank">
+      <img src="https://leetcode.com/static/images/badges/2024/gif/50-days.gif" alt="50 Days 2024" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/KPreethamReddy/" target="_blank">
+      <img src="https://leetcode.com/static/images/badges/2023/gif/top-sql-50.gif" alt="Top SQL 50" height="200" width="200" />
+    </a>
+  </p>
 </div>
 
 ---
