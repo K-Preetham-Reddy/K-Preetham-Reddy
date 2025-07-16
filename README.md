@@ -16,8 +16,8 @@
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/KPreethamReddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
