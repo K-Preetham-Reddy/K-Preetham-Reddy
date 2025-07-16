@@ -33,11 +33,10 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: Java, Python, JavaScript, C, C++, SQL
-- 🌐 Web: React.js, HTML, CSS, Node.js, Express.js
-- 🧠 AI/ML: TensorFlow, PyTorch, OpenCV, SciKit-Learn
-- 🔧 Tools: Git, GitHub, Postman, Docker, MongoDB, MySQL
-- ☁️ Cloud: Firebase, Netlify, Render, Vercel
+- 💻 Languages: Java, JavaScript, TypeScript, Python, C/C++, SQL, HTML, CSS
+- 🌐 Frameworks: React.js, Node.js, Express.js, Flask, TensorFlow, REST APIs, ShadCN/UI, Bootstrap
+- 🔧 Developer Tools: Git, GitHub, ShadCN/UI, Bootstrap
+- ☁️ Currently Learning: Docker, Django, Kubernetes, System Design
 
 ---
 
