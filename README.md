@@ -12,6 +12,13 @@
 - ⚙️ Building projects in FinTech, HealthTech & Smart Automation
 
 ---
+### LeetCode History Awards
+![100 Days Badge](https://img.shields.io/badge/100%20Days-Active-green)
+![50 Days Badge](https://img.shields.io/badge/50%20Days-2025-02-20-yellow)
+![50 Days Badge](https://img.shields.io/badge/50%20Days-2024-12-05-yellow)
+![Top SQL 50](https://img.shields.io/badge/Top%20SQL%2050-2025-01-19-blue)
+
+---
 
 ### 📈 GitHub Stats
 
