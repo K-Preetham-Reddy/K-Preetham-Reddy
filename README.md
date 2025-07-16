@@ -14,10 +14,10 @@
 ---
 ## 🏅 LeetCode History Awards
 
-[![100 Days Badge](https://img.shields.io/badge/100%20Days-Active-green)](https://leetcode.com/K-Preetham-Reddy/)
-[![50 Days Badge](https://img.shields.io/badge/50%20Days-2025--02--20-yellow)](https://leetcode.com/K-Preetham-Reddy/)
-[![50 Days Badge](https://img.shields.io/badge/50%20Days-2024--12--05-yellow)](https://leetcode.com/K-Preetham-Reddy/)
-[![Top SQL 50](https://img.shields.io/badge/Top%20SQL%2050-2025--01--19-blue)](https://leetcode.com/K-Preetham-Reddy/)
+[![100 Days Badge](https://img.shields.io/badge/100%20Days-Active-green)](https://leetcode.com/KPreethamReddy/)
+[![50 Days Badge](https://img.shields.io/badge/50%20Days-2025--02--20-yellow)](https://leetcode.com/KPreethamReddy/)
+[![50 Days Badge](https://img.shields.io/badge/50%20Days-2024--12--05-yellow)](https://leetcode.com/KPreethamReddy/)
+[![Top SQL 50](https://img.shields.io/badge/Top%20SQL%2050-2025--01--19-blue)](https://leetcode.com/KPreethamReddy/)
 
 ---
 
