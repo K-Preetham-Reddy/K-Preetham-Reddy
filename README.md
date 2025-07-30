@@ -26,16 +26,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <div align="center">
+<a href="https://github.com/K-Preetham-Reddy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Preetham-Reddy&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
+</a>
+</div>
   <img src="https://github-readme-stats.vercel.app/api?username=K-Preetham-Reddy&show_icons=true&theme=radical" alt="Preetham's GitHub Stats" />
   <br/>
   ![GitHub Streak](https://streak-stats.demolab.com/?user=K-Preetham-Reddy&count_private=true&theme=react&border_radius=10)
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Preetham-Reddy&layout=compact&theme=radical" alt="Top Languages" />
-  <div align="center">
-  <a href="https://github.com/keen71126">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keen71126&theme=react-                dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
-  </a>
-  </div>
 </p>
 
 ---
