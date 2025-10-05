@@ -1,5 +1,5 @@
 <h2 align="center">🚀 Hi, I'm K.Preetham Reddy</h2>
-<p align="center">Passionate Developer | ML Enthusiast | Building Ideas into Reality 🌱</p>
+<p align="center">Passionate Developer | ML Enthusiast</p>
 
 ---
 
