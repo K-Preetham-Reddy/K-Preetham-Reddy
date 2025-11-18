@@ -7,7 +7,6 @@
 
 - 🎓 B.Tech Student | 3rd Year  
 - 🤖 Interested in AI/ML, DevOps, MERN Stack, and System Design  
-- 📚 Currently Learning: Transformers, Computer Vision, and Next.js 
 
 ---
 
